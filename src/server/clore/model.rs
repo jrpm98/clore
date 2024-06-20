@@ -220,7 +220,7 @@ pub mod market {
                         && item.mrl > 72
                         && item.specs.net.down > 25f64
                         && regex_cpu.is_match(cpu)
-                        && used >= &6u32
+                        && used >= &8u32
                 })
                 .filter(|card| !blocked_server_ids.contains(&card.id))
                 .map(|item| {
