@@ -193,7 +193,7 @@ pub mod market {
 
     impl Marketplace {
         pub fn filter(&self) -> Vec<Card> {
-            let regex_cpu = Regex::new(r"((?i)ryzen|intel)").unwrap();
+            let regex_cpu = Regex::new(r"((?i)yzen|intel)").unwrap();
             let regex_gpu = Regex::new(r"(3080|3090|4070|4080|4080|4090)").unwrap();
             let blocked_server_ids = Clore::import_block_server_ids();
             let mut cards: Vec<Card> = (*self)
