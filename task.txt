@@ -9,6 +9,8 @@ ssh root@n2.c2.clorecloud.net -p 10050
 ssh root@n5.c1.clorecloud.net -p 10085
 ssh root@n3.c1.clorecloud.net -p 10287
 
+pip install -r requirements.txt
+
 ssh root@n5.c1.clorecloud.net -p 10868 "ps -aeo command |grep 'execute|monitor' |grep -v grep"
 ssh root@5.188.33.88
 
