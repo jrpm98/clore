@@ -1,18 +1,18 @@
 [
     {
-        "WalletAddr": "nimble1mq32psph2c9yqc2j2k8lr67zg50kjkef02tcuu",
+        "WalletAddr": "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
         "CompletedTime": "2024-05-31 20:45:34",
         "TrainRuntime": 7675.920763492584,
         "Status": "Success"
     },
     {
-        "WalletAddr": "nimble1mq32psph2c9yqc2j2k8lr67zg50kjkef02tcuu",
+        "WalletAddr": "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
         "CompletedTime": "2024-05-31 23:00:35",
         "TrainRuntime": 8001.0992000103,
         "Status": "Success"
     },
     {
-        "WalletAddr": "nimble1mq32psph2c9yqc2j2k8lr67zg50kjkef02tcuu",
+        "WalletAddr": "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
         "CompletedTime": "2024-06-01 01:16:10",
         "TrainRuntime": 8031.5460369586945,
         "Status": "Success"

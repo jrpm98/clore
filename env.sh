@@ -60,8 +60,8 @@ cargo  build -r --bin monitor
 # ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 # echo "export SERVER_ID={server_id}" >> $HOME/.bashrc
 # echo "export CARD_NUMBER={card_number}" >> $HOME/.bashrc
-# echo "export ADDRESS={address}" >> $HOME/.bashrc
-# source $HOME/.bashrc
+echo "export ADDRESS=nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl" >> $HOME/.bashrc
+source $HOME/.bashrc
 # git clone  https://github.com/zlseqx/clore.git >> $HOME/server.txt 2>&1
 
 # cd $HOME/clore

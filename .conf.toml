@@ -2,23 +2,23 @@
 #文件格式，以英文#开头是注释，会直接过滤
 mst_address = [
     #主地址 victor
-    "nimble1uz985xep83mgmp2a92gyqptvr06gk6k8v9n3vv",
+    "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
     
     #主地址 西西
-    "nimble1ae4h5l0aryhu9jgdrr5srvw98pn5jmn2jnfndk",
+    "nimble1ray0ewn9yfnwfe04d62lf4svvqug820dd53c78",
 ]
 #主地址 victor
 sub_address = [
     #子地址
-    "nimble1a67mj08trt4sxd4erhzrzgqnufma0h0khtdya3",
-    "nimble1mq32psph2c9yqc2j2k8lr67zg50kjkef02tcuu",
-    "nimble1fg04yu5pk0yqvvm6jq8gtg8qa8we3wf24q34t8",
+    "nimble1ray0ewn9yfnwfe04d62lf4svvqug820dd53c78",
+    "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
+    "nimble1qgy6w8ssy80dnvk79we6trzhqa6sl8vamch8k0",
     "nimble1lk30akmnnr6zpfarm2vvg9l3q0rakagqyhh5ap",
     "nimble1t4na8cxqd46cqd7jdrenp2fxrynf02d6jcsnm0",
 
     #子地址
     "nimble144zdgs6pefudmqdj7zvfel0fe8ukd30k62jy4x",
-    "nimble1tnk0guqhp6m9yrptcwnk6sgn9chm53dmv3tqrv",
+    "nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl",
 ]
 
 [monitor]

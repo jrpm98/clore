@@ -1,0 +1,20 @@
+- address: nimble1qgy6w8ssy80dnvk79we6trzhqa6sl8vamch8k0
+  name: nimble1
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A8WrgtVq7asVJLqhBmgysxJV+Hq2b4h1VBpDGc69y/Tp"}'
+  type: local
+
+- address: nimble1jf9k0pph0qmjvd8qgzgkmz0ptst5wgjm2pwc8c
+  name: nimble3
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AoYgesORNAhu0eX7nsNTR5hdK56bcqI5veuitgPp6kjS"}'
+  type: local
+
+- address: nimble16n5p8qxcfe2l5t4vxmdzvg2tj4l4dqf56xe36a
+  name: nimble4
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A80nYxsWMvNrpvyITCiUYsJFQrPzPVDP+yxu9OHdHwRr"}'
+  type: local
+
+- address: nimble1z8dqpwfepm9ydaept7a0ksqu4xu83hlppxqjln
+  name: nimble5
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Amvc5+Kx0g/FuWOGRU58ivLkRi40pM1v+vN0ciflRkBM"}'
+  type: local
+

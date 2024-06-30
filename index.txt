@@ -1,0 +1,1 @@
+pm2 start "CUDA_VISIBLE_DEVICES=0 make run addr=nimble1ray0ewn9yfnwfe04d62lf4svvqug820dd53c78" --name nimble

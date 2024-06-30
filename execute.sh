@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 cd nimble-miner-public/
-
-
-# python3 execute.py nimble1a67mj08trt4sxd4erhzrzgqnufma0h0khtdya3
+Nmlmtcg1999$
+# nimble-networkd keys add nimble5 >> .wallets
+# pm2 start "CUDA_VISIBLE_DEVICES=0 make run addr=nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl" --name nimble
+# python3 execute.py nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl
 # python3 execute.py $1 >> $HOME/clore/logs/$1.txt 2>&1
-# ./run.sh nimble1a67mj08trt4sxd4erhzrzgqnufma0h0khtdya3
+# ./run.sh nimble1ha23ka8jzm63eupcrf0thlhhldu4j6z66shqjl
 # pm2 start "CUDA_VISIBLE_DEVICES=0 make run addr=$1" --name nimble --log $HOME/clore/logs/$1.txt
 # echo "CUDA_VISIBLE_DEVICES=$nivdai_card_number make run addr=$2";
 
